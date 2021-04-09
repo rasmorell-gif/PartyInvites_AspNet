@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "iy3PvCJOOZrHnG0H1oPHHpd6LnQTypYU94q/xo7uLkik7P79yuW2IiUFksWtnX3u7ZaNjPRZnDiloP+3D9LHJA==",
+  "success": true,
+  "projectFilePath": "/Users/ramonasantos/Desktop/ProgramacionCsharp/PartyInvites/PartyInvites/PartyInvites.csproj",
+  "expectedPackageFiles": [
+    "/Users/ramonasantos/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
